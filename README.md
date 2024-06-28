@@ -19,9 +19,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ## Código Pythonico: "Técnicas e truques do Python"
 
-<div align="center">
-    <audio src="output/PodcastComIA.mp3" controls title="Podcast"></audio>
-</div>
+🔊 [Escute o Podcast](output/PodcastComIA.mp3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
